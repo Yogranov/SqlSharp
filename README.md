@@ -1,5 +1,5 @@
 SqlSharp makes the integration with SQL easy then ever.
-<br>
+<br><br>
 Reading from DB example:
 ```
 DataTable data = new MyDB().Where("Id", "1").Where("FirstName", "Yog")
